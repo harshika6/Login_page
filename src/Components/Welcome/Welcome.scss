@@ -1,0 +1,21 @@
+.grid-display{
+  display: grid;
+  grid-template-columns:65% 35%;
+  padding:2%;
+}
+.first-div{
+  display: grid;
+  grid-template-rows: 50% 50%;
+  padding:2%;
+}
+.john-div{
+  display: grid;
+  grid-template-columns:50% 50%;
+  padding:2%;
+}
+
+.right{
+  display: grid;
+  grid-template-rows: 50% 50%;
+  padding:2%;
+}

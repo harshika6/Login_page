@@ -1,0 +1,26 @@
+
+.button{
+  min-width: 165px;
+  width: auto;
+  height: 50px;
+  letter-spacing: 0.5px;
+  line-height: 50px;
+  padding: 0px 35px;
+  font-size: 18px;
+  border:3px solid green;
+  cursor: pointer;
+  transition: all 0.3s linear;
+  display: flex;
+  justify-content: center;
+  margin:3%;
+}
+.input-field{
+  width:45vw;
+	font-size: 18px;
+	padding: 10px 10px 10px 5px;
+	cursor: pointer;
+	height:7.5vh;
+  border: 0.5px solid black;
+	margin:2% 2% 2% 4%;
+  outline:none;
+}
